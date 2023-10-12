@@ -17,7 +17,7 @@ namespace Task
 
             };
 
-            Console.WriteLine("Enter the Group No - /^[A-Z]{2}\\d+{3}$/g");
+            Console.WriteLine("Enter the Group No - /^[A-Z]{2}\\d{3}$/g");
 
             string no;
             do
